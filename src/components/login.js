@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import {baseUrl} from '../shared/baseUrl';
 class login extends Component {
   state = {
     isloggedin: false,
