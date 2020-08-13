@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13d5ecb7d67717cb5a2703a43f056519",
+    "revision": "15e8ed90ebd6186448eff759d930b226",
     "url": "/reactSlotify/index.html"
   },
   {
