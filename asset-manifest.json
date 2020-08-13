@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactSlotify/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactSlotify/static/js/main.d3a32bf6.chunk.js",
-    "main.js.map": "/reactSlotify/static/js/main.d3a32bf6.chunk.js.map",
+    "main.js": "/reactSlotify/static/js/main.22995102.chunk.js",
+    "main.js.map": "/reactSlotify/static/js/main.22995102.chunk.js.map",
     "runtime-main.js": "/reactSlotify/static/js/runtime-main.cab29489.js",
     "runtime-main.js.map": "/reactSlotify/static/js/runtime-main.cab29489.js.map",
     "static/js/2.bf0515a9.chunk.js": "/reactSlotify/static/js/2.bf0515a9.chunk.js",
     "static/js/2.bf0515a9.chunk.js.map": "/reactSlotify/static/js/2.bf0515a9.chunk.js.map",
     "index.html": "/reactSlotify/index.html",
-    "precache-manifest.1ed427357a975427f2ac131cbef89271.js": "/reactSlotify/precache-manifest.1ed427357a975427f2ac131cbef89271.js",
+    "precache-manifest.606d6d1e0f81f217dd3a7469c6554918.js": "/reactSlotify/precache-manifest.606d6d1e0f81f217dd3a7469c6554918.js",
     "service-worker.js": "/reactSlotify/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/reactSlotify/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.bf0515a9.chunk.js.LICENSE.txt": "/reactSlotify/static/js/2.bf0515a9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cab29489.js",
     "static/js/2.bf0515a9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d3a32bf6.chunk.js"
+    "static/js/main.22995102.chunk.js"
   ]
 }
