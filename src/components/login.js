@@ -13,7 +13,7 @@ class login extends Component {
           <div className="wrap-login100 p-t-190 p-b-30">
             <form className="login100-form validate-form">
               <div className="login100-form-avatar">
-              <img src={"/assets/images/ops.png"} width="200px" height="200px"/>
+              <img src={"/reactSlotify/assets/images/ops.png"} width="200px" height="200px"/>
               </div>
 
               <span className="login100-form-title p-t-20 p-b-45">
