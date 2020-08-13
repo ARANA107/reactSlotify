@@ -17,6 +17,7 @@ class login extends Component {
               </div>
 
               <span className="login100-form-title p-t-20 p-b-45">
+              <small>You are running this application in <b>{process.env.NODE_ENV}</b> mode.</small>
                 ASH RANA
               </span>
 
