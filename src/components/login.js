@@ -5,19 +5,19 @@ class login extends Component {
   };
 
   render() {
-    const imageUrl = process.env.PUBLIC_URL+ "/assets/images/ops.png";
+    const imageUrl = process.env.PUBLIC_URL + "/assets/images/ops.png";
     return (
-        
+
       <div>
         <div className="container-login100">
           <div className="wrap-login100 p-t-190 p-b-30">
             <form className="login100-form validate-form">
               <div className="login100-form-avatar">
-              <img src={imageUrl} width="200px" height="200px"/>
+                <img src="/assets/images/ops.png" width="200px" height="200px" />
               </div>
 
               <span className="login100-form-title p-t-20 p-b-45">
-              <small>You are running this application in <b>{process.env.NODE_ENV}</b> mode.</small>
+                <small>You are running this application in <b>{process.env.NODE_ENV}</b> mode.</small>
                 ASH RANA
               </span>
 
